@@ -1,2 +1,2 @@
 Connect-AzureAD
-Get-AzureAD
+Get-AzureAD -Identity "JPTest"
